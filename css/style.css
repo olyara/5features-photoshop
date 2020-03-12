@@ -74,10 +74,12 @@ h1, h2 {
     text-align: center;
     line-height: 70px;
     color: white;
+    font-size: 30px;
 }
 
-.icon .img {
-    padding: 12px;
+.block-features .icon:hover {
+    background-color: white;
+    color: #ffae00
 }
 
 .block-features .caption {
